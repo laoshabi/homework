@@ -1,4 +1,5 @@
 # GIF to exhibit
+![gif](1.gif)
 <img src="Exhibition.gif" width = 30% height = 30% />
 
 # Functionalities
